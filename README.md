@@ -29,3 +29,9 @@ Finish sending the request to client.
 >`}).listen(8080);`
 
 Start a server listening for connection on port 8080.
+
+### Instruction
+To start the server open cmd or shell, go to the destination path and type `node app.js`. This will run the server. <br>
+Then go to your server and type localhost address and required port number.
+>`127.0.0.1:8080` \
+You will see your desired web page.
