@@ -1,7 +1,7 @@
 <img src="node.png" width=200>
 <!-- ![NodeJS](node.png "nodeJS") -->
 # simple-nodejs-server
-This code is the symbol of my node js beginning. 🥳\
+This code is the symbol of my node js beginning. 🥳<br>
 Using this code can create a simple localhost server to access in this specific file. 🥴
 ### 💥Understanding code💥
 
